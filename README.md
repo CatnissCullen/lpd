@@ -5,8 +5,7 @@
 ## Demo
 
 ⚡️Check out the lightning speed of LPD!
-
-https://github.com/user-attachments/assets/15e1effd-b534-4f6c-a229-eb15d208933b
+https://github.com/user-attachments/assets/0117b50b-0f25-49b1-8530-9221916ce7bc
 
 
 ## News
