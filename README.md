@@ -94,3 +94,14 @@ python scripts/cli/run.py -J lpd_l_256 -p your_slurm_partition -A your_slurm_acc
 Thanks to [MAR](https://github.com/LTH14/mar/tree/main) for the wonderful open-source codebase.
 
 We thank MIT-IBM Watson AI Lab, National Science Foundation, Hyundai, and Amazon for supporting this research.
+
+### Citation
+If you find LPD useful or relevant to your project and research, please kindly cite our paper:
+```bibtex
+@article{zhang2025locality,
+  title={Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation},
+  author={Zhang, Zhuoyang and Huang, Luke J and Wu, Chengyue and Yang, Shang and Peng, Kelly and Lu, Yao and Han, Song},
+  journal={arXiv preprint arXiv:2507.01957},
+  year={2025}
+}
+```
